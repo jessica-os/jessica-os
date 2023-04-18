@@ -1,3 +1,6 @@
+## Olá! Eu sou a **Jéssica Oliveira!** ✌️
+### Desenvolvedora Front-End Jr em construção 
+
 <div>
   <a href="https://github.com/jessica-os">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessica-os&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
