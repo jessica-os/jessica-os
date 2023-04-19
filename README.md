@@ -1,5 +1,5 @@
 ## Olá! Eu sou a **Jéssica Oliveira!** ✌️
-### Desenvolvedora Front-End Jr em construção 
+### Desenvolvedora Front-End Jr.
 
 <div>
   <a href="https://github.com/jessica-os">
