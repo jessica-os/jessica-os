@@ -1,9 +1,14 @@
 ## Olá!!! ✌️🙋‍♀️
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b8136f&size=35&center=true&vCenter=true&width=1000&lines=Eu+sou+a+Jéssica+Oliveira...;Desenvolvedora+Front+End.;)](https://git.io/typing-svg)
 
+  <p align="center" width="400px"> 
+Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>,<br> com previsão de término em junho/2025.<br> Também faço cursos livres dedicados a área de tecnologia,<br> especialmente tecnologias da área <strong>Front-end</strong>. <br> Estou sempre buscando  evoluir como pessoa e profissional,<br> com o anseio de atuar na área.
+   
+</p>
 
+
+<br>
 <div>
   <a href="https://github.com/jessica-os">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessica-os&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
