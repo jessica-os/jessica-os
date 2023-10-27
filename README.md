@@ -7,7 +7,7 @@
     <img  src="https://github.com/jessica-os/jessica-os/assets/125152200/3d09621c-5750-468f-ab77-55a27d0ae21e"width="250px"/>
     <p width="350px"> 
       🎓 Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>,<br> 
-        com previsão de término em junho/2025.<br> Também faço cursos livres dedicados a área de    
+        com previsão de término em Dezembro/2025.<br> Também faço cursos livres dedicados a área de    
         tecnologia,<br> 
         especialmente tecnologias da área <strong>Front-end</strong>.
         <br> Estou sempre buscando  evoluir como pessoa e profissional,<br> 
