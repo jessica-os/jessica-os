@@ -22,16 +22,24 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessica-os&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-os&layout=compact&langs_count=6&theme=tokyonight"/>
  </div>
+   
+  ##
   
   ### 🌱 No momento estou estudando:
   
 <div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30px">
-</div>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" />
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px"  />
  
- <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45px"  />
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45px">       
+</div>
+
+  ## 
+
 
  ### Tecnologias, ferramentas e ambientes de desenvolvimento:
  
@@ -43,6 +51,7 @@
   <img height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
+##
 <br>
 
 ### 💌Contatos
