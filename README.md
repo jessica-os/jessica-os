@@ -4,12 +4,19 @@
 
 
  <div style="display: inline_block" align="center"><br>
-    <img  src="https://github.com/jessica-os/jessica-os/assets/125152200/3d09621c-5750-468f-ab77-55a27d0ae21e"width="250px"/>
+   <img src="https://github.com/jessica-os/jessica-os/assets/125152200/b48ece51-4758-492a-99c4-bd0edaea003e"width="250px"/>
     <p width="350px"> 
-      🎓 Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>,<br> 
-        com previsão de término em Fevereiro/2026.<br> Também faço cursos livres dedicados a área de    
-        tecnologia,<br> 
-        especialmente tecnologias da área <strong>Front-end</strong>.
+      
+ 🎓 Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>,<br> 
+        com previsão de término em Março/2026.<br> Também faço cursos livres dedicados a área de    
+        tecnologia e programção,<br> 
+        Aqui nesta página você irá encontrar projetos utilizando 
+       <strong>HTML, CSS, JAVASCRIPT, REACT.JS</strong>.<br>
+        </p>
+        <p>
+  💻 Atualmente, estou estagiando na empresa <strong>Compass.Uol</strong>, onde venho<br>
+       aprimorando minhas habilidades em testes de software,Bancos de dados SQL e NOSQL<br>
+       Fundamentos de CyberSecurity, etc.
         <br> Estou sempre buscando  evoluir como pessoa e profissional,<br> 
         com o anseio de atuar na área.
     </p>
