@@ -1,6 +1,6 @@
 ## Olá!!! ✌️🙋‍♀️
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b8136f&size=35&center=true&vCenter=true&width=1000&lines=Eu+sou+a+Jéssica+Oliveira...;Desenvolvedora+Front+End.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b8136f&size=35&center=true&vCenter=true&width=1000&lines=Eu+sou+a+Jéssica+Oliveira!;)](https://git.io/typing-svg)
 
 
  <div style="display: inline_block" align="center"><br>
@@ -15,10 +15,9 @@
         </p>
         <p>
   💻 Atualmente, estou estagiando na empresa <strong>Compass.Uol</strong>, onde venho<br>
-       aprimorando minhas habilidades em testes de software,Bancos de dados SQL e NOSQL<br>
-       Fundamentos de CyberSecurity, etc.
-        <br> Estou sempre buscando  evoluir como pessoa e profissional,<br> 
-        com o anseio de atuar na área.
+       aprimorando minhas habilidades em testes de softwares<br>
+       <br> Estou sempre buscando evoluir como pessoa e profissional,<br> 
+        com o objetivo de levar a excelência nas minhas atividades profissionais.
     </p>
 </div>
 
